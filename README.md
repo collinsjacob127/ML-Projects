@@ -7,4 +7,3 @@ Private backup of my ML code and projects
 - Weight saving process (text file?)
 - Modular activation functions and backpropagation methods
 - Modular NLP
-- 
