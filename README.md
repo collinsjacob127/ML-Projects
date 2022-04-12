@@ -1,5 +1,5 @@
 # ML-Projects
-Private backup of my ML code and projects
+Backup of my ML code and projects
 
 # Plans going forward:
 - Convolutional Network class
